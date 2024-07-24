@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Alice Smith",
+        "Email": "alice.smith@example.com",
+        "Address": "123 Maple Street, Springfield, IL",
+        "Favorite_numbers": [],
+        "Age": 29,
+        "Avatar": ""
+    },
+    {
+        "Name": "Bob Johnson",
+        "Email": "bob.johnson@example.com",
+        "Address": "456 Oak Avenue, Lincoln, NE",
+        "Favorite_numbers": [6.28, 9.81],
+        "Age": 34,
+        "Avatar": ""
+    },
+    {
+        "Name": "Carol Williams",
+        "Email": "carol.williams@example.com",
+        "Address": "789 Pine Lane, Austin, TX",
+        "Favorite_numbers": [1.41, 3.14, 4.67, 2.22],
+        "Age": 41,
+        "Avatar": ""
+    },
+    {
+        "Name": "David Brown",
+        "Email": "david.brown@example.com",
+        "Address": "101 Elm Street, Columbus, OH",
+        "Favorite_numbers": [7.77, 8.88, 9.99],
+        "Age": 28,
+        "Avatar": ""
+    },
+    {
+        "Name": "Eve Davis",
+        "Email": "eve.davis@example.com",
+        "Address": "202 Birch Road, Denver, CO",
+        "Favorite_numbers": [2.71],
+        "Age": 36,
+        "Avatar": ""
+    },
+    {
+        "Name": "Frank Miller",
+        "Email": "frank.miller@example.com",
+        "Address": "303 Cedar Street, Seattle, WA",
+        "Favorite_numbers": [1.23, 4.56, 7.89, 6.54, 3.21],
+        "Age": 33,
+        "Avatar": ""
+    },
+    {
+        "Name": "Grace Wilson",
+        "Email": "grace.wilson@example.com",
+        "Address": "404 Walnut Avenue, Miami, FL",
+        "Favorite_numbers": [5.55, 6.66],
+        "Age": 45,
+        "Avatar": ""
+    },
+    {
+        "Name": "Henry Moore",
+        "Email": "henry.moore@example.com",
+        "Address": "505 Maple Drive, Boston, MA",
+        "Favorite_numbers": [8.88],
+        "Age": 27,
+        "Avatar": ""
+    },
+    {
+        "Name": "Ivy Taylor",
+        "Email": "ivy.taylor@example.com",
+        "Address": "606 Ash Lane, San Francisco, CA",
+        "Favorite_numbers": [],
+        "Age": 38,
+        "Avatar": ""
+    },
+    {
+        "Name": "Jack Anderson",
+        "Email": "jack.anderson@example.com",
+        "Address": "707 Fir Court, Chicago, IL",
+        "Favorite_numbers": [4.44, 5.55, 6.66, 7.77],
+        "Age": 32,
+        "Avatar": ""
+    }
+]
